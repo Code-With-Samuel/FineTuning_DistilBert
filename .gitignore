@@ -56,3 +56,4 @@ package-lock.json
 .cache/
 
 results/
+fine_tuned_yelp_model/
