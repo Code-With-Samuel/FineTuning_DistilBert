@@ -27,6 +27,13 @@ ENV/
 *.env
 secrets.json
 
+# Model files and checkpoints
+*.safetensors
+*.pt
+*.pth
+results/
+checkpoint*/
+
 # Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb_checkpoints
